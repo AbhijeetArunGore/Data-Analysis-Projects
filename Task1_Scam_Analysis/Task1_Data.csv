@@ -1,0 +1,13 @@
+Year,Scam_Type,Reported_Cases,Estimated_Loss_Crore,Vulnerable_Sector,Source
+2023,Digital Arrest,12450,3200,General Public,National Cyber Crime Portal
+2023,Investment/Ponzi,85600,7800,IT/Fintech Investors,RBI Alert
+2023,EdTech Admission Fraud,3200,450,Students/Parents,AICTE Advisory
+2023,UPI/Payment Fraud,289400,5200,Online Shoppers,PCI Data
+2024,Digital Arrest,18720,5100,General Public,National Cyber Crime Portal
+2024,Investment/Ponzi,92300,9200,IT/Fintech Investors,RBI Alert
+2024,EdTech Admission Fraud,4100,620,Students/Parents,AICTE Advisory
+2024,UPI/Payment Fraud,312500,6100,Online Shoppers,PCI Data
+2025 (Q1-Q3),Digital Arrest,10500,2900,General Public,National Cyber Crime Portal
+2025 (Q1-Q3),Investment/Ponzi,51200,4800,IT/Fintech Investors,RBI Alert
+2025 (Q1-Q3),EdTech Admission Fraud,2800,380,Students/Parents,AICTE Advisory
+2025 (Q1-Q3),UPI/Payment Fraud,189200,4200,Online Shoppers,PCI Data
